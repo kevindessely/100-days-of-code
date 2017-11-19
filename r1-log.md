@@ -4,7 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R0D0: November 19, 2017
 
-### R1D2
+**Today's Progress**: Created a new project called PopBy, a travel app.
+
+**Thoughts:**  Using this as an opportunity to do a fully integrated mobile app.
+Struggled with `StyleSheet.create`, on certain condition will have to resort to
+using `StyleSheet.flatten`. Will have to research more on this.
+
+**Link to work:** [PopBy](https://github.com/kevindessely/popby)
