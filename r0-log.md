@@ -24,3 +24,19 @@ rather than following it blindly. Maybe I can make a tutorial out of it ? /ps ðŸ
 
 
 **Link to work:** [graphql-tutoial](https://github.com/kevindessely/graphql-tutorial)
+
+### R0D2: November 21, 2017
+
+**Today's Progress**: Worked on PopBy's main page. Learnt GraphQL tutorial on
+mutation and optimistic ui.
+
+**Thoughts:**  GraphQL's root type consist of Query, Mutation and Subscription.
+Optimistic UI are awesome! to indicate to the user that changes are still
+pending but being posted. flex-basis are extremely useful if you wanted to set
+the View sizes based on percentage value and it's responsive for every other
+devices.
+
+
+**Link to work:**
+[PopBy](https://github.com/kevindessely/popby/commit/73fb69b8c42dcf7a17b09546ed2df2ec7aade6d0)
+[graphql-tutorial](https://github.com/kevindessely/graphql-tutorial/commit/bc3cef2e6fd1d1ccc060c768221a699300f67c29)
